@@ -11,7 +11,7 @@ Url is redacted to protect the customers data (still exposed)
 
 # WRITEUP
 
-# 0x1D012
+## 0x1D012
 How a not-so-random URL unraveled a major privacy violation.
 
 #### Spam and hex
