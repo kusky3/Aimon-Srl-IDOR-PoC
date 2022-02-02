@@ -7,6 +7,8 @@ Aimon was recently fined 200.000€ by the Italian GPDP. This should put an end 
 <https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1876435>
 
 ### poc.py
+This linear processing bruteforce script will harvest 1 valid url every ~2000 requests at ~2 requests per second.
+At 20 requests per second you'll harvest 1 valid url per minute or 1440 per day.  
 Url is redacted to protect the customers data (still exposed)
 
 ### Writeup:
