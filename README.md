@@ -61,7 +61,7 @@ That's quite worrying because I logged into my account and sure enough,
 the "allow us to sell your data" checkbox was unchecked.
 But these are just allegations.
 At least until I realized that this is the only contract I ever signed up using the combination of my phone number and my father's name.
-So the ISP illegally sold them my information to someoene who decided to put it on the internet.
+So the ISP illegally sold my information to someoene who decided to put it on the internet.
 Way to go!
 A few `whois` later and I have the name of the company running the SMS spam campaign, a call center.
 Their website has a big banner saying that: "We only use authorized databases and We respect your privacy".
