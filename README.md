@@ -9,5 +9,5 @@ Aimon was recently fined 200.000€ by the Italian GPDP. This should put an end 
 ### poc.py
 Url is redacted to protect the customers data (still exposed)
 
-### writeup
-[here](wip)
+# Writeup
+
