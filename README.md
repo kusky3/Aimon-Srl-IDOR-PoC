@@ -10,7 +10,8 @@ Aimon was recently fined 200.000€ by the Italian GPDP. This should put an end 
 Url is redacted to protect the customers data (still exposed)
 
 # WRITEUP
-
+  
+---
 ## 0x1D012
 How a not-so-random URL unraveled a major privacy violation.
 
